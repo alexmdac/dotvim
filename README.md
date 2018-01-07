@@ -3,7 +3,5 @@
 ## Installation
 
 ```bash
-git clone https://github.com/alexmdac/dotvim ~/.vim
-cd ~/.vim
-git submodule update --init
+git clone --recursive https://github.com/alexmdac/dotvim ~/.vim
 ```
