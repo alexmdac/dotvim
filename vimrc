@@ -11,3 +11,5 @@ set hidden
 set shiftwidth=4
 set softtabstop=4
 set expandtab
+
+set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
