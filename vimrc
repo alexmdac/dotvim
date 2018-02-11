@@ -4,6 +4,8 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
+colorscheme murphy
+
 set noswapfile
 set number
 set hidden
