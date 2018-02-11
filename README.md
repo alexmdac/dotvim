@@ -1,3 +1,3 @@
 ```bash
-git clone --recursive https://github.com/alexmdac/dotvim ~/.vim
+git clone --recurse-submodules https://github.com/alexmdac/dotvim ~/.vim
 ```
