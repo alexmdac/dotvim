@@ -4,6 +4,8 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
+set background=dark
+set guifont=monaco:h14
 colorscheme murphy
 
 set noswapfile
