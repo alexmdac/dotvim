@@ -12,8 +12,8 @@ set noswapfile
 set number
 set hidden
 
-set shiftwidth=4
-set softtabstop=4
+set shiftwidth=2
+set softtabstop=2
 set expandtab
 
 "Ubuntu 14.04 has an older version of vim than is supported.
