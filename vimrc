@@ -12,9 +12,9 @@ set noswapfile
 set number
 set hidden
 
-set shiftwidth=2
-set softtabstop=2
-set expandtab
+set tabstop=4 shiftwidth=4 expandtab
+autocmd FileType cpp    set tabstop=2 shiftwidth=2 expandtab
+autocmd FileType go     set noexpandtab
 
 "Ubuntu 14.04 has an older version of vim than is supported.
 let g:go_version_warning = 0
