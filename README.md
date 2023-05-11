@@ -7,4 +7,4 @@ initialized.
 git clone --recurse-submodules https://github.com/alexmdac/dotvim ~/.vim
 ```
 
-To initialize vim-go, open vim and run `:GoInstallBinaries`.
+To initialize `vim-go`, open vim and run `:GoInstallBinaries`.
